@@ -78,7 +78,7 @@ int main(int argc, char *argv[]){
     	//Object* data;
     	//data = NULL;
     	//list->indexOf(data);
-    	list->clear();
+    	//list->clear();
     	end = clock()-start/CLOCKS_PER_SEC;
     	//cout << i << "\t" << end << endl;
     	cout << end << " ";
